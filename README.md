@@ -1,6 +1,6 @@
 # music-gen
 
-Generatore musicale procedurale con TUI — gira sul Raspberry Pi.
+Generatore musicale procedurale con TUI.
 
 ## Installazione
 
