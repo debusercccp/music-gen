@@ -81,7 +81,7 @@ File audio renderizzato con fluidsynth:
 - Formato: WAV stereo
 - Sample rate: 44.1 kHz (default fluidsynth)
 
-## 🔧 Parametri
+## Parametri
 
 ### Scale
 - **Pentatonica**: [0,2,4,7,9] - suono orientale/modale
